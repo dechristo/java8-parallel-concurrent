@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Implementations of Java Parallel, Concurrent and Distributed Algorithms Course from Rice University
 
 **Needs Maven to run tests and compile**
@@ -9,3 +10,5 @@ mvn compile
 mvn test
 
 ## 1. Reciprocal Array Sum
+## 2. Parallel Streams Analytics
+
