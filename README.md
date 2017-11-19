@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Implementations of Java Parallel, Concurrent and Distributed Algorithms Course from Rice University
 
 **Needs Maven to run tests and compile**
